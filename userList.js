@@ -1,0 +1,20 @@
+exports.userList=[
+    {
+        id:1,
+        name:"rania",
+        age:"29",
+        isworking:false
+    },
+    {
+        id:2,
+        name:"hassen",
+        age:"38",
+        isworking:true
+    },
+    {
+        id:3,
+        name:"dali",
+        age:"27",
+        isworking:true
+    }
+]
